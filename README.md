@@ -1,3 +1,5 @@
+# [ARCHIVED]
+
 # POC of bug in angular CLI for pnpm monorepo (angular version 18 and 19 in the same repo)
 
 This is a basic setup of monorepo with heterogenous angular versions (18 and 19).
